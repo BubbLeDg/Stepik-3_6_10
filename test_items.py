@@ -1,4 +1,5 @@
 import time
+from selenium.webdriver.common.by import By
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
